@@ -21,6 +21,7 @@ p {
     margin-bottom: 10px;     /* 下の入力欄との間隔を調整 [4] */
     font-weight: bold;       /* 項目名を太字にして目立たせる [13] */
 }
+
 /* 4. 入力フィールド共通の装飾 */
 input[type="text"],
 select,
@@ -37,3 +38,5 @@ textarea {
 textarea {
     height: 150px;           /* 高さを固定して入力しやすくする [3] */
 }
+
+
